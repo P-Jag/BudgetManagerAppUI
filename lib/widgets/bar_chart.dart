@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:budget_manager_app_ui/Wigets/single_bar.dart';
+import 'package:budget_manager_app_ui/widgets/single_bar.dart';
 import 'package:budget_manager_app_ui/data/constants.dart';
 import 'package:flutter/material.dart';
 

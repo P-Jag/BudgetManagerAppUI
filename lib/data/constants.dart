@@ -10,3 +10,15 @@ const kSecondaryTextStyle = TextStyle(
   fontSize: 16.0,
   fontWeight: FontWeight.w600,
 );
+
+final kMainBoxDecoration = BoxDecoration(
+  color: Colors.white,
+  boxShadow: [
+    BoxShadow(
+      color: Colors.black12,
+      offset: Offset(0, 2),
+      blurRadius: 6.0,
+    ),
+  ],
+  borderRadius: BorderRadius.circular(10.0),
+);
